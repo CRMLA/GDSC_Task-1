@@ -1,0 +1,37 @@
+body {
+     margin: 0;
+     padding: 0;
+     font-family: 'Roboto', sans-serif;
+     background-color:rgb(219, 219, 219);
+}
+.CV {
+     margin: 20px;
+     
+}
+.CV img {
+     width: 350px;
+     border-radius: 50%;
+     
+}
+.CV h3 {
+     margin-left: 50%;
+     text-decoration: underline;
+     color: red;
+
+}
+.CV p {
+     font-weight: 700;
+     font-style: italic;
+}
+.CV pre {
+     font-size: large;
+     font-weight: 600;
+}
+.CV span {
+     font-size: 21px;
+     margin-left: 20px;
+}
+.CV ul li {
+     font-size: 20px;
+     font-weight: 600;
+}
